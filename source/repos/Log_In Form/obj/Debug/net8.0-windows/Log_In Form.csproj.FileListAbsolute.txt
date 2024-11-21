@@ -1,0 +1,25 @@
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In Form.csproj.AssemblyReference.cache
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In_Form.Form1.resources
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In Form.csproj.GenerateResource.cache
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In Form.AssemblyInfoInputs.cache
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In Form.AssemblyInfo.cs
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In Form.csproj.CoreCompileInputs.cache
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In Form.sourcelink.json
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\Log_In Form.exe
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\Log_In Form.deps.json
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\Log_In Form.runtimeconfig.json
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\Log_In Form.dll
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\Log_In Form.pdb
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aron\source\repos\Log_In Form\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In F.2BA2F51F.Up2Date
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In Form.dll
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\refint\Log_In Form.dll
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In Form.pdb
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\Log_In Form.genruntimeconfig.cache
+C:\Users\Aron\source\repos\Log_In Form\obj\Debug\net8.0-windows\ref\Log_In Form.dll
