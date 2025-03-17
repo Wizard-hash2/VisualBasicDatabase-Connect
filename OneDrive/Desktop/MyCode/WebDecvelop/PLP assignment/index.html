@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microfinance Business</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: space-around;
+        }
+        nav li {
+            margin: 0;
+        }
+        nav a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+        nav a:hover {
+            background-color: #575757;
+        }
+        .cont {
+            max-width: 960px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            color: #333;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        form label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        form input, form textarea, form button {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        form button {
+            background-color: #333;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        form button:hover {
+            background-color: #575757;
+        }
+    </style>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="Main.html">Home</a></li>
+            <li><a href="#ABTS">About Us</a></li>
+            <li><a href="#Serv">Services</a></li>
+            <li><a href="#Conts">Contact</a></li>
+        </ul>
+    </nav>
+    <div class="cont">
+        <h1>Welcome to Our Small Business</h1>
+        <p>Welcome to Microfinance Business Empire, We are committed to empowering communities through financial inclusion.
+             Our mission is to provide accessible and affordable financial services to individuals and small businesses, helping them achieve their goals and improve their livelihoods. 
+             Explore our services and learn how we can support your journey to financial stability and success.</p>
+        <img src="Micro1.jpg" alt="Our Badge">
+    </div>
+    <div class="cont" id="ABTS">
+        <h1>About Us</h1>
+        <p>At Microfinance Business Empre, we believe in the transformative power of financial inclusion. 
+            Our mission is to bridge the gap between traditional banking and underserved communities by offering tailored financial solutions.
+             Our dedicated team is passionate about helping individuals and small businesses access the resources they need to thrive. 
+             We are committed to transparency, integrity, and community development, and we strive to create positive, lasting impacts in the communities we serve</p>
+    </div>
+    <div class="cont" ID = "Serv">
+        <h1>Our Services</h1>
+        <p>Here's a list of the services we offer:</p>
+        <ul>
+            <li> <a href="secure.html"> Secure Loand</a></li>
+            <li><a href="Mortgage.html"> Auction </a> </li>
+            <li><a href="stealing.html"> Stealing</a></li>
+        </ul>
+    </div>
+    <div class="cont" id = "Conts">
+        <h1>Contact Us</h1>
+        <form action="Main.html" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" placeholder="thanks for the service I will ot come agin"></textarea>
+            <button type="submit">Submit</button>
+        
+        </form>
+    </div>
+    <div class="social-icons">
+        <i class="fa fa-facebook-official" aria-hidden="true"></i>
+    </div>
+</body>
+</html>
